@@ -13,7 +13,6 @@ package org.seedstack.audit;
 import static org.assertj.core.api.Assertions.assertThat;
 
 import org.junit.Test;
-import org.seedstack.audit.Initiator;
 
 public class InitiatorTest {
 

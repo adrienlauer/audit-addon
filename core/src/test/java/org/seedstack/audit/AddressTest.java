@@ -15,7 +15,6 @@ import static org.assertj.core.api.Assertions.assertThat;
 import java.net.UnknownHostException;
 
 import org.junit.Test;
-import org.seedstack.audit.Address;
 
 public class AddressTest {
 
